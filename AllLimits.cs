@@ -1,4 +1,9 @@
-﻿using VRageMath;
+﻿//THIS IS NOT FOOGS PROJECT
+//HE TOOK THIS FROM KEEN SECRET PROJECT
+//KEEN SOFTWARE HOUSE ARE ACTUALLY THE BEST
+//BEST TESTERS, BEST CODERS
+//NO SHIT
+using VRageMath;
 using VRage.ModAPI;
 using VRage.ObjectBuilders;
 using VRage.Game.Components;
